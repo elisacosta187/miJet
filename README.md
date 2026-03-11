@@ -12,17 +12,17 @@ The testing strategy focuses on:
 
 ## Test Plans
 
-1. [Home Page](home-page.md): Landing page, global navigation, and hero sections.
-2. [Category Page](category-page.md): Product listings and filtering.
-3. [Product Page](product-page.md): Detailed product information and interactions.
-4. [Contact & Company](contact-page.md): Contact forms and informational pages.
-5. [Cart & Checkout](cart-checkout.md): Shopping basket management and the multi-step order process.
-6. [Account Section](account-section.md): User profile overview and history management.
-7. [Account Information](account-info.md): Detailed personal data, password, and privacy settings.
-8. [Account Addresses](addresses.md): Detailed management of shipping and billing addresses.
-9. [Order History](order-history.md): Detailed viewing of previous orders, statuses, and reordering.
-10. [Credit Notes](credit-notes.md): Detailed viewing and downloading of credit slips.
-11. [Guest Order Tracking](guest-tracking.md): Tracking orders as a guest user using order reference and email.
+1. [Home Page](/test-plan/home-page.md): Landing page, global navigation, and hero sections.
+2. [Category Page](/test-plan/category-page.md): Product listings and filtering.
+3. [Product Page](/test-plan/product-page.md): Detailed product information and interactions.
+4. [Contact & Company](/test-plan/contact-page.md): Contact forms and informational pages.
+5. [Cart & Checkout](/test-plan/cart-checkout.md): Shopping basket management and the multi-step order process.
+6. [Account Section](/test-plan/account-section.md): User profile overview and history management.
+7. [Account Information](/test-plan/account-info.md): Detailed personal data, password, and privacy settings.
+8. [Account Addresses](/test-plan/addresses.md): Detailed management of shipping and billing addresses.
+9. [Order History](/test-plan/order-history.md): Detailed viewing of previous orders, statuses, and reordering.
+10. [Credit Notes](/test-plan/credit-notes.md): Detailed viewing and downloading of credit slips.
+11. [Guest Order Tracking](/test-plan/guest-tracking.md): Tracking orders as a guest user using order reference and email.
 12. [Account Registration](/test-plan/registration.md): Creating a new user account and managing privacy consents.
 
 ## Tools Recommended
