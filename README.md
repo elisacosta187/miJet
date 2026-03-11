@@ -23,7 +23,7 @@ The testing strategy focuses on:
 9. [Order History](order-history.md): Detailed viewing of previous orders, statuses, and reordering.
 10. [Credit Notes](credit-notes.md): Detailed viewing and downloading of credit slips.
 11. [Guest Order Tracking](guest-tracking.md): Tracking orders as a guest user using order reference and email.
-12. [Account Registration](registration.md): Creating a new user account and managing privacy consents.
+12. [Account Registration](/test-plan/registration.md): Creating a new user account and managing privacy consents.
 
 ## Tools Recommended
 
