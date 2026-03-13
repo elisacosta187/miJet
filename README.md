@@ -8,7 +8,7 @@ The testing strategy focuses on:
 - **Functional Testing**: Verifying that all features work as expected (navigation, language switch, cart, checkout).
 - **UI/UX Testing**: Ensuring the interface is responsive, elements are correctly displayed, and the experience is intuitive.
 - **Form Validation**: Checking that contact and checkout forms handle inputs correctly.
-- **Ecommerce Flow**: End-to-end testing of the purchasing process > **this one is TBC as there is only prod environment and I see some orders have been placed already**
+- **Ecommerce Flow**: End-to-end testing of the purchasing process.
 
 ## Test Plans
 
